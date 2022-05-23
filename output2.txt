@@ -1,0 +1,3 @@
+Smith : John : 35
+Moe : Sally : 23
+Joestar : Joseph : 50
